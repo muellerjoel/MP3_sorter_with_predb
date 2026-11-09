@@ -6,13 +6,7 @@ Datenquelle: **PreDB.net-API** (`api.predb.net`). **Kein SRRDB-Zugriff.**
 
 ## 1. Installation
 
-Falls du das ZIP-Paket verwendest, entpacke es und wechsle in den Ordner mit dem Skript:
-
-```bash
-unzip PreDB_MP3_Sortierer_v8_mit_README.zip
-```
-
-Unter Arch Linux kannst du Python bei Bedarf installieren:
+Unter Arch Linux kannst du Python bei Bedarf installieren auch unter anderern Distributionen möglich mit apt/yum/dnf usw.:
 
 ```bash
 sudo pacman -S python
